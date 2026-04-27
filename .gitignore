@@ -1,0 +1,16 @@
+# Rails
+user_tasks_api/log/*
+user_tasks_api/tmp/*
+user_tasks_api/storage/*
+user_tasks_api/db/*.sqlite3
+user_tasks_api/db/*.sqlite3-*
+user_tasks_api/.env
+
+# React
+user-tasks-front/node_modules
+user-tasks-front/dist
+user-tasks-front/.env
+
+# Sistema
+.DS_Store
+.vscode
